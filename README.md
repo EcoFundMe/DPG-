@@ -63,16 +63,16 @@ A blockchain-based crowdfunding platform that:
   - Security and compliance: $93,900  
 
 - **Operational Costs (12 months): $385,000**  
-  - Technical team (4 developers): $180,000  
-  - Operations & compliance (2 staff): $60,000  
-  - Business development (2 staff): $70,000  
+  - Technical team ( developers): $180,000  
+  - Operations & compliance ( staff): $60,000  
+  - Business development (staff): $70,000  
   - Marketing & user acquisition: $75,000  
 
 - **Contingency (15%): $92,835**  
 
 #### Equity Offering  
 - 15% equity ($5 million valuation cap)  
-- SAFE notes with 20% discount  
+- SAFE (Simple Agreement for Future Equity) notes with 20% discount  
 - 18-month runway  
 
 ## 6. Projections and KPIs
